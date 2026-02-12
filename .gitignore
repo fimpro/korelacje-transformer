@@ -1,0 +1,11 @@
+logs/*
+model_with_*
+models_*
+trained_models/*
+short_fixed_*
+*.pt
+*.sbatch
+*.csv
+*.err
+*.out
+  __pycache__
